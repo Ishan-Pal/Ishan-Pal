@@ -38,10 +38,10 @@
 <!-- <img src="https://github-readme-activity-graph-1.Ishan3.repl.co/graph?username=ishan-pal&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"> -->
 </div>
 <div align="center">
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=ishan-pal&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=1a3289&icon_color=1a3289&bg_color=0D111700&text_color=1a3289&custom_title=Ishan+Github+Stats" alt="Ishan  Github stats" />
-<img width="350px" src="http://github-readme-streak-stats.herokuapp.com?user=ishan-pal&hide_border=true&background=0D111700&border=1a3289&fire=CB0044&sideNums=1a3289&currStreakLabel=1a3289&currStreakNum=1a3289&sideLabels=1a3289&dates=1a3289&stroke=1a3289&ring=1a3289" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=ishan-pal&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FFA500&icon_color=FFA500&bg_color=0D111700&text_color=FFA500&custom_title=Ishan+Github+Stats" alt="Ishan  Github stats" />
+<img width="350px" src="http://github-readme-streak-stats.herokuapp.com?user=ishan-pal&hide_border=true&background=0D111700&border=FFA500&fire=CB0044&sideNums=FFA500&currStreakLabel=FFA500&currStreakNum=FFA500&sideLabels=FFA500&dates=FFA500&stroke=FFA500&ring=FFA500" />
 </div>
-<!-- <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-pal&theme=radical&title_color=1a3289&hide_border=true" width="300px" data-canonical-></span> -->
+<!-- <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-pal&theme=radical&title_color=FFA500&hide_border=true" width="300px" data-canonical-></span> -->
 
 ![th2i72qu0rnt6hr9zn43](https://github.com/Ishan-Pal/Ishan-Pal/assets/130207814/9818c26a-9a23-43ce-95bc-23773a352504)
 
