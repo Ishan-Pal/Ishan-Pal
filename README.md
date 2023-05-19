@@ -41,7 +41,7 @@
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ishan-pal&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=1a3289&icon_color=1a3289&bg_color=0D111700&text_color=1a3289&custom_title=Ishan+Github+Stats" alt="Ishan  Github stats" />
 <img width="350px" src="http://github-readme-streak-stats.herokuapp.com?user=ishan-pal&hide_border=true&background=0D111700&border=1a3289&fire=CB0044&sideNums=1a3289&currStreakLabel=1a3289&currStreakNum=1a3289&sideLabels=1a3289&dates=1a3289&stroke=1a3289&ring=1a3289" />
 </div>
-<!-- <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Pal&theme=radical&title_color=1a3289&hide_border=true" width="300px" data-canonical-></span> -->
+<!-- <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-pal&theme=radical&title_color=1a3289&hide_border=true" width="300px" data-canonical-></span> -->
 
 ![th2i72qu0rnt6hr9zn43](https://github.com/Ishan-Pal/Ishan-Pal/assets/130207814/9818c26a-9a23-43ce-95bc-23773a352504)
 
