@@ -43,5 +43,10 @@
 </div>
 <!-- <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Pal&theme=radical&title_color=1a3289&hide_border=true" width="300px" data-canonical-></span> -->
 
+![th2i72qu0rnt6hr9zn43](https://github.com/Ishan-Pal/Ishan-Pal/assets/130207814/9818c26a-9a23-43ce-95bc-23773a352504)
+
+
+
+
 
 
