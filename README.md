@@ -42,7 +42,7 @@
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Ishan-Pal&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=1a3289&icon_color=1a3289&bg_color=0D111700&text_color=1a3289&custom_title=Ishan+Github+Stats" alt="Ishan  Github stats" />
 <img width="370px" src="http://github-readme-streak-stats.herokuapp.com?user=Ishan-Pal&hide_border=true&background=0D111700&border=1a3289&fire=CB0044&sideNums=1a3289&currStreakLabel=1a3289&currStreakNum=1a3289&sideLabels=1a3289&dates=1a3289&stroke=1a3289&ring=1a3289" />
 </div>
-<!-- <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat2308&theme=radical&title_color=1a3289&hide_border=true" width="300px" data-canonical-></span> -->
+<!-- <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Pal&theme=radical&title_color=1a3289&hide_border=true" width="300px" data-canonical-></span> -->
 
 
 
